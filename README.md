@@ -23,10 +23,10 @@ I'm a **full-stack developer** with an emphasis on **frontend**, from **Informat
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Limesh-B&layout=compact&theme=tokyonight)
 
 ### 🌟 Contribution Graph
-![Limesh's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Limesh_B&theme=react-dark)
+[![Limesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Limesh-B&theme=tokyo-night)](https://github.com/Limesh-B/github-readme-activity-graph)
 
 ### ⏱️ GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Limesh_B&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Limesh-B&theme=dark)](https://git.io/streak-stats)
 
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Limesh-B&color=blue&style=flat-square)
