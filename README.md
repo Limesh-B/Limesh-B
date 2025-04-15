@@ -1,5 +1,5 @@
 ### Hi 👋! My name is **Balasubramaniam Limesh**
-I'm a **full-stack developer** with an emphasis on **frontend**, from **Informatics Institute of Technology** in partnership with **University of Westminster**.
+I'm a **full-stack developer** from **Informatics Institute of Technology** in partnership with **University of Westminster**.
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
