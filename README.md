@@ -25,9 +25,6 @@ I'm a **full-stack developer** from **Informatics Institute of Technology** in p
 ### 🌟 Contribution Graph
 [![Limesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Limesh-B&theme=tokyo-night)](https://github.com/Limesh-B/github-readme-activity-graph)
 
-### ⏱️ GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Limesh-B&theme=dark)](https://git.io/streak-stats)
-
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Limesh-B&color=blue&style=flat-square)
 
